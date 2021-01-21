@@ -4,9 +4,9 @@
 class Gooseberry < Formula
   desc "A command line utility to generate a knowledge base from Hypothesis annotations"
   homepage "https://github.com/out-of-cheese-error/gooseberry"
-  url "https://github.com/out-of-cheese-error/gooseberry/releases/download/0.5.1/gooseberry-macos.tar.gz"
-  sha256 "fa5726babdd82bedbe51370729fa427ec77611a116180887cc0fbc16e6c9a38d"
-  version "0.5.1"
+  url "https://github.com/out-of-cheese-error/gooseberry/releases/download/0.5.2/gooseberry-macos.tar.gz"
+  sha256 "5daaa4575e77101171cdb7a87696a475445e6bfdb21999da317409e2529ab4ae"
+  version "0.5.2"
 
   def install
     bin.install "gooseberry"
