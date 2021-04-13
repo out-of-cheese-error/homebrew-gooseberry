@@ -4,7 +4,7 @@
 class Gooseberry < Formula
   desc "A command line utility to generate a knowledge base from Hypothesis annotations"
   homepage "https://github.com/out-of-cheese-error/gooseberry"
-  url "https://github.com/out-of-cheese-error/gooseberry/releases/download/0.7.1/gooseberry-macos.tar.gz"
+  url "https://github.com/out-of-cheese-error/gooseberry/releases/download/0.8.1/gooseberry-macos.tar.gz"
   sha256 "f8839541443a47cf1e4fa4ecf5df3dc8ed132abeff005833e9f1b10c232a14c1"
   version "0.8.1"
 
